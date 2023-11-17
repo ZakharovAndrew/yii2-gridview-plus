@@ -1,0 +1,25 @@
+{
+  "name": "zakharov-andrew/yii2-gridview-plus",
+  "description": "Yii2 Settings",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "module","gridview", "yii 2"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrew Zakharov",
+      "homepage": "https://github.com/ZakharovAndrew",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZakharovAndrew\\grid\\": "src"
+    }
+  },
+  "fxp-asset": {
+    "enabled": false
+  }
+}
