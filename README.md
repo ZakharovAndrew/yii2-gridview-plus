@@ -1,6 +1,6 @@
 # Yii2 GridView Plus
 
-[![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-settings/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-gridview-plus)
+[![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-gridview-plus/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-gridview-plus)
 [![License](https://poser.pugx.org/zakharov-andrew/yii2-settings/license)](https://packagist.org/packages/zakharov-andrew/yii2-gridview-plus)
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 
@@ -24,10 +24,6 @@ or add
 
 to the ```require``` section of your ```composer.json``` file.
 
-Subsequently, run
+## License
 
-```
-./yii migrate/up --migrationPath=@vendor/zakharov-andrew/yii2-gridview-plus/migrations
-```
-
-in order to create the settings table in your database.
+**yii2-gridview-plus** it is available under a BSD 3-Clause License. Detailed information can be found in the `LICENSE.md`.
