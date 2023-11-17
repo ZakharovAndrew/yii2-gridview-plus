@@ -1,4 +1,9 @@
 # Yii2 GridView Plus
+
+[![Latest Stable Version](https://poser.pugx.org/zakharov-andrew/yii2-settings/v/stable)](https://packagist.org/packages/zakharov-andrew/yii2-gridview-plus)
+[![License](https://poser.pugx.org/zakharov-andrew/yii2-settings/license)](https://packagist.org/packages/zakharov-andrew/yii2-gridview-plus)
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
 Enhanced GridView with various utilities for Yii Framework 2.0
 
 ## Installation
