@@ -43,4 +43,4 @@ class DefaultController extends Controller
 
 ## License
 
-**yii2-gridview-plus** it is available under a BSD 3-Clause License. Detailed information can be found in the `LICENSE.md`.
+**yii2-gridview-plus** it is available under a MIT License. Detailed information can be found in the `LICENSE.md`.
