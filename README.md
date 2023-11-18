@@ -24,6 +24,23 @@ or add
 
 to the ```require``` section of your ```composer.json``` file.
 
+## Usage
+
+Add this to your action in the controller
+
+```
+class DefaultController extends Controller
+{
+    //...
+    public function actionYourAction()
+    {
+        \ZakharovAndrew\grid\assets\GridViewPlusAsset::register($this->view);
+        // ...
+    }
+}
+```
+
+
 ## License
 
 **yii2-gridview-plus** it is available under a BSD 3-Clause License. Detailed information can be found in the `LICENSE.md`.
