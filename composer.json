@@ -1,6 +1,6 @@
 {
   "name": "zakharov-andrew/yii2-gridview-plus",
-  "description": "Yii2 Settings",
+  "description": "Yii2 GridView Plus",
   "type": "yii2-extension",
   "keywords": ["yii2", "extension", "module","gridview", "yii 2"],
   "license": "MIT",
